@@ -17,6 +17,7 @@ function App() {
       <button onClick={()=>setMessage('hi')}>입장</button>
       <button onClick={()=>setMessage('bye')}>퇴장</button>
       <h2>{message}</h2>
+      <p>dddddd</p>
     </div>
   );
 }
